@@ -24,6 +24,10 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 * -> Add me to any group and make me admin<br>
 * -> Add me to your channel as admin with full previlages
 
+### Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuka340/Adv-Auto-Filter-Bot-V3)
+
 **Bot Commands (Works Only In Groups) :**
 
 
