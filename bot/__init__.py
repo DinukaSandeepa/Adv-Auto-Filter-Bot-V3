@@ -19,7 +19,7 @@ BOT_TOKEN = os.environ.get("1920925746:AAHISIGnxxSsNWtciZ-2OktBYadNwKGrf7U")
 
 DB_URI = os.environ.get("mongodb+srv://dinukacreation:dinukacreation@cluster0.cidiq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
-USER_SESSION = os.environ.get("USER_SESSION")
+USER_SESSION = os.environ.get("BQAaKQH3WyUBipinuArvmfWPcYMBNzelC83cH30B9crPbX6A3NCwKyi6zXsk-rEMYmxN180a2V417djjsrFfNaCjNxMq9M0ZrzabrgncoMquJH9JuCH5t6FrnqW5-gcfw4Y6MZRkglYCb2lQG4Nn1yVmQ6Qq6mmGP68D2o6wT5TsuPyfAkeA9KGp9fizknOIOVWaZgiCiBhIGJ-qZN4Lc-5RyVnvudqFPK7bilhsPMAZFt7xDMyWz2MBZpVehUOYlNooXT0ohtRn18aXWpytwr2Y_qVMg49Iui3GaxLYsBBOysi1fx_lU5AOgkMup-mrq6jTjhwLV9hjumn66Q8VqKxLL7Wt5QA")
 
 VERIFY = {}
 
