@@ -11,9 +11,9 @@ from logging.handlers import RotatingFileHandler
 from .translation import Translation
 
 # Change Accordingly While Deploying To A VPS
-APP_ID = int(os.environ.get("APP_ID"))
+APP_ID = int(os.environ.get("1627545"))
 
-API_HASH = os.environ.get("API_HASH")
+API_HASH = os.environ.get("64e277a5e717aec5fecd067a34c35460")
 
 BOT_TOKEN = os.environ.get("1920925746:AAHISIGnxxSsNWtciZ-2OktBYadNwKGrf7U")
 
