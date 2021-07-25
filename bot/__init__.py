@@ -15,9 +15,9 @@ APP_ID = int(os.environ.get("APP_ID"))
 
 API_HASH = os.environ.get("API_HASH")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = os.environ.get("1920925746:AAHISIGnxxSsNWtciZ-2OktBYadNwKGrf7U")
 
-DB_URI = os.environ.get("DB_URI")
+DB_URI = os.environ.get("mongodb+srv://dinukacreation:dinukacreation@cluster0.cidiq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
 USER_SESSION = os.environ.get("USER_SESSION")
 
